@@ -24,14 +24,17 @@ Users should be able to:
 - See the social media share links when they click the share icon
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
+- Desktop Preview  
+![](./desktop-screenshot.png)  
+---
+---
+- Mobile Preview
+![](./mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/StrkNante/article-component](https://github.com/StrkNante/article-component)
+- Live Site URL: [https://StrkNante.github.io/article-component](https://StrkNante.github.io/article-component)
 
 ## My process
 
